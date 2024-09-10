@@ -1,0 +1,17 @@
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\bin\Debug\net7.0-windows\Bai4_BTH1.exe
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\bin\Debug\net7.0-windows\Bai4_BTH1.deps.json
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\bin\Debug\net7.0-windows\Bai4_BTH1.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\bin\Debug\net7.0-windows\Bai4_BTH1.dll
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\bin\Debug\net7.0-windows\Bai4_BTH1.pdb
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.frmOperation.resources
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.dll
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\refint\Bai4_BTH1.dll
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.pdb
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\Bai4_BTH1.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\bài tập của Têm\BTC+BTH\BTH Windows Form\Bai4_BTH1\Bai4_BTH1\obj\Debug\net7.0-windows\ref\Bai4_BTH1.dll
